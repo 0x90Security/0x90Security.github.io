@@ -6,6 +6,7 @@
 
 * [Vision and Values](the-company/vision-and-values.md)
 
-## Commands
+## Cheat Sheets
 
-* [MSFVenom](commands/msfvenom.md)
+* [Commands](cheat-sheets/commands/README.md)
+  * [MSFVenom](cheat-sheets/commands/msfvenom.md)
