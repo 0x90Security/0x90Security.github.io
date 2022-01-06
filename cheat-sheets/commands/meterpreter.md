@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Standard Banner.jpg
+coverY: 0
+---
+
 # Meterpreter
 
 #### Pivoting in Meterpreter
